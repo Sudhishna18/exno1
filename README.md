@@ -197,3 +197,6 @@ z
 
 # Result
 Thus, we have read the given data and performed data cleaning and saved the cleaned data to a file successfully.
+
+# Summary:
+This project focuses on data cleaning of a given dataset to ensure accuracy and consistency for further analysis. It involves reading the dataset, identifying and handling missing values, correcting inconsistencies, removing duplicates, and addressing incorrect or irrelevant data. After cleaning, the processed dataset is saved to a file, resulting in a reliable and well-structured dataset ready for analysis or machine learning tasks.
